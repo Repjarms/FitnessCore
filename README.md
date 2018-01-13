@@ -1,2 +1,2 @@
-# FitnessScore
+# FitnessCore
 Open Source fitness tracker
